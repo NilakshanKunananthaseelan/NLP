@@ -1,2 +1,3 @@
-# NLP
-Learning materials of NLP
+# NLP taskss and implementations
+
+![alt text]
